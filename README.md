@@ -38,7 +38,7 @@ A production-style REST API for managing users and orders, built with:
 
 - 🔨 Building: adding React frontend to my Spring Boot project
 - 📚 Learning: Docker, unit testing with JUnit + Mockito
-- 🎯 Goal: Java backend or full-stack internship in 2024
+- 🎯 Goal: Java backend or full-stack internship in 2026
 
 ---
 
