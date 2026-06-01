@@ -7,30 +7,27 @@ Currently looking for a **Java / Full Stack internship** (open to anywhere — r
 
 ## 🛠️ Tech Stack
 
-**Backend**
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `REST APIs` `Maven` `Lombok`
+**Backend** `Java` `Spring Boot` `Spring Data JPA` `Hibernate` `REST APIs` `Maven` `Lombok`
 
-**Database**
-`MySQL` `Spring JDBC`
+**Database** `MySQL` `Spring JDBC`
 
-**Frontend**
-`React` `HTML` `CSS`
+**Frontend** `React` `HTML` `CSS`
 
-**Tools**
-`Git` `GitHub` `Swagger / OpenAPI` `Postman`
+**Tools** `Git` `GitHub` `Swagger / OpenAPI` `Postman`
 
 ---
 
 ## 🚀 Featured Project
 
 ### [springboot-user-management](https://github.com/dheeraj-bhambhu/springboot-user-management)
+
 A production-style REST API for managing users and orders, built with:
 - Spring Boot + Spring Data JPA + MySQL
 - Layered architecture (Controller → Service → Repository)
 - Pagination, sorting, custom exception handling
 - Swagger UI docs at `/swagger-ui/index.html`
 
-> **Live demo:** _coming soon (deploying on Railway)_
+> **Live demo:** *coming soon (deploying on Railway)*
 
 ---
 
@@ -38,15 +35,15 @@ A production-style REST API for managing users and orders, built with:
 
 - 🔨 Building: adding React frontend to my Spring Boot project
 - 📚 Learning: Docker, unit testing with JUnit + Mockito
-- 🎯 Goal: Java backend or full-stack internship in 2026
+- 🎯 Goal: Java backend or full-stack internship in 2025–2026
 
 ---
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj_Bhambhu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhiraj-bhambhu/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj_Bhambhu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhiraj-bhambhu/)
 [![Email](https://img.shields.io/badge/Email-dheerajbhambhu60@gmail.com-EA4335?style=flat&logo=gmail)](mailto:dheerajbhambhu60@gmail.com)
 
 ---
 
-_Open to internship opportunities across India and globally (remote-friendly)._
+*Open to internship opportunities across India and globally (remote-friendly).*_
