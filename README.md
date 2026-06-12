@@ -37,7 +37,7 @@ Currently looking for a **Java / Full Stack internship** (open to anywhere — r
 
 ## 🚀 Featured Project
 
-### [springboot-user-management](https://github.com/dheeraj-bhambhu/springboot-user-management)
+### [User-Order-Management-System](https://github.com/dheeraj-bhambhu/User-Order-Management-System)
 
 A production-style REST API for managing users and orders, built with:
 - Spring Boot + Spring Data JPA + MySQL
@@ -60,7 +60,7 @@ A production-style REST API for managing users and orders, built with:
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj_Bhambhu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhiraj-bhambhu/)
-[![Email](https://img.shields.io/badge/Email-dheerajbhambhu60@gmail.com-EA4335?style=flat&logo=gmail)](mailto:dheerajbhambhu60@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dhirajbhambhu18@gmail.com-EA4335?style=flat&logo=gmail)](mailto:dhirajbhambhu18@gmail.com)
 
 ---
 
