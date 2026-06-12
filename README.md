@@ -12,6 +12,8 @@ Currently looking for a **Java / Full Stack internship** (open to anywhere — r
 ---
 
 ## 🛠️ Tech Stack
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-bhambhu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -33,7 +35,7 @@ Currently looking for a **Java / Full Stack internship** (open to anywhere — r
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dheeraj-bhambhu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj-bhambhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj-bhambhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github)
 
 ## 🚀 Featured Project
 
@@ -51,7 +53,8 @@ A production-style REST API for managing users and orders, built with:
 
 ## 📌 Currently
 - ✅ Deployed: Spring Boot REST API live on Railway
-- 🔨 Building: adding React frontend to my Spring Boot project
+- 🔨 Building: Budget Expense Tracker
+ (React + Spring Boot + MySQL)
 - 📚 Learning: Docker, unit testing with JUnit + Mockito
 - 🎯 Goal: Java backend or full-stack internship in 2026
 
