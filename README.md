@@ -7,7 +7,7 @@
 </div>
 
 Final-year B.Tech student building Java backend systems.
-Currently looking for a **Java / Full Stack internship** (open to anywhere — remote, hybrid, or on-site).
+Currently looking for a **Java / Full Stack internship** (open to anywhere — remote or on-site).
 
 ---
 
