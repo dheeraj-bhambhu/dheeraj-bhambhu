@@ -1,4 +1,4 @@
-# Hey, I'm Dheeraj Bhambhu 👋
+# Hey, I'm Dhiraj Bhambhu 👋
 
 <div align="center">
   
