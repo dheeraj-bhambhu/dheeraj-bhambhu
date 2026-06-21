@@ -58,6 +58,10 @@ Production-ready REST API with JWT auth, role-based access control, pagination, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajbhambhu&layout=compact&theme=tokyonight&langs_count=6" height="160"/>
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajbhambhu&theme=tokyonight"/>
+</p>
 ---
 
 ## 🤝 Let's Connect
